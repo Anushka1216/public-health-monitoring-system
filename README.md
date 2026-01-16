@@ -47,23 +47,18 @@ All records with geolocation automatically appear as markers.
 
 ![Map View](screenshots/map.png)
 ![Marker Popup](screenshots/marker-popup.png)
-
 ![Object Fields 1](screenshots/object-fields-1.png)
 ![Object Fields 2](screenshots/object-fields-2.png)
-
 ![Severity Formula](screenshots/severity-formula.png)
-
 ![Flow](screenshots/flow.png)
 ![Flow Decision](screenshots/flow-decision.png)
-
 ![Task Created](screenshots/task-created.png)
 ![Record Detail](screenshots/record-detail.png)
-
-![Report 1 - Risk Level](screenshots/report-1-risk-level.png)
-![Report 2 - Active Cases](screenshots/report-2-active-cases.png)
-![Report 3 - High Severity](screenshots/report-3-high-severity.png)
-
+![Report 1](screenshots/report-1-risk-level.png)
+![Report 2](screenshots/report-2-active-cases.png)
+![Report 3](screenshots/report-3-high-severity.png)
 ![Dashboard](screenshots/dashboard.png)
+
 
 
 ## 🚀 What I Learned
