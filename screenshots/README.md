@@ -1,1 +1,1 @@
-Screenshots for Public Health Monitoring Project
+Screenshots for Public Health Monitoring System Project
