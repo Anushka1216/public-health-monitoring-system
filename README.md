@@ -1,4 +1,4 @@
-# Public Health Disease Monitoring System (Salesforce)
+# Public Health Disease Monitoring System
 
 ## 📌 Overview
 A Salesforce-based Public Health Monitoring system that visualizes disease-affected zones on a map and automates urgent health action using Flow and Apex.
@@ -15,11 +15,13 @@ During disease outbreaks, authorities need a real-time view of affected zones an
 - Reports & Dashboard for analytics and decision-making
 
 ## 🛠 Tech Stack
-- Salesforce Admin
-- LWC (Lightning Web Components)
-- Apex + SOQL
-- Salesforce Flows
-- Reports & Dashboards
+- Platform: Salesforce
+- Frontend: LWC (Lightning Web Components)
+- Backend: Apex (OOP)
+- Database: SOQL
+- Automation: Record-Triggered Flows
+- Analytics: Reports & Dashboards
+
 
 ## 📌 Custom Object
 - Disease_Area__c
@@ -42,6 +44,22 @@ During disease outbreaks, authorities need a real-time view of affected zones an
 ## 🗺️ LWC Map Feature
 Implemented an interactive monitoring map using Lightning Web Components.
 All records with geolocation automatically appear as markers.
+
+## 🧠 Software Engineering Highlights
+- Designed a clean data model for disease zone monitoring
+- Built a component-based map dashboard (LWC)
+- Implemented backend service layer using Apex
+- Applied severity-based prioritization logic (formula field)
+- Automated urgent action using event-driven workflow (Flow → Task creation)
+
+## 🔑 Core Concepts Used
+- OOP and backend logic
+- CRUD operations
+- Data modelling
+- Automation workflows
+- Map-based visualization
+- Analytics & reporting
+
 
 ## 📸 Screenshots
 
