@@ -1,7 +1,8 @@
 # Public Health Disease Monitoring System
 
 ## 📌 Overview
-A Salesforce-based Public Health Monitoring system that visualizes disease-affected zones on a map and automates urgent health action using Flow and Apex.
+A Public Health Monitoring system that visualizes disease-affected zones on a map and automates urgent health actions using severity-based logic and workflow automation.
+
 
 ## 🎯 Problem Statement
 During disease outbreaks, authorities need a real-time view of affected zones and a system to prioritize high-severity areas for quick action.
@@ -85,10 +86,12 @@ All records with geolocation automatically appear as markers.
 
 
 
-
 ## 🚀 What I Learned
-- Building real-world Salesforce solutions using Admin + Dev features
-- Creating automation workflows using record-triggered flows
-- Developing LWCs to visualize data on maps
-- Writing Apex for clean backend services
-- Presenting insights using reports and dashboards
+- Designing a real-world monitoring system with clear data modelling
+- Building component-based UI dashboards with map visualization
+- Implementing backend service logic using OOP principles
+- Automating workflows using event-driven triggers (rules/flows)
+- Writing efficient queries for retrieving location-based data
+- Creating analytics using reports and dashboards for decision making
+- Implemented the complete solution on Salesforce using LWC, Apex and Flows
+
