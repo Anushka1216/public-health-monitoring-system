@@ -1,1 +1,1 @@
-Screenshots for Public Health Monitoring Salesforce Project
+Screenshots for Public Health Monitoring Project
